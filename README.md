@@ -17,9 +17,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/juliawyx/juliawyx/output/snake.svg" alt="Snake animation" />
-
-###
